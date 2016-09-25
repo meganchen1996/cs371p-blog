@@ -1,0 +1,16 @@
+---
+layout: post
+title: Week Five
+---
+
+**What did I do this past week?** This week was crazy busy. I was prepping for interviews, career fair, had two projects due and two tests on Friday and Monday. I was definitely just barely holding onto my sanity. I finished up the Netflix Project and learned so much about C++ in the process. The actual project wasn't too difficult, but I think keeping up with all the development practices and formatting standards really terrified me because I didn't want to lose points on "dumb stuff". I think it's a good exercise in producing quality, even though at the time it seems stupid. Pair programming was also somewhat of a challenge, as me and my partner were often at odds with eachother time-wise and were both extremely busy, but in the end we knocked it out together. In class, we learned more about iterators, types of iterators, and best practices (like the goal is to write algorithms with the weakest iterators and write containers with the strongest interators). I really love Downing's way of lecturing, by far one of the best lecturers I've had in college. 
+
+**What's in my way?** I need to catch up on the reading. I have loved the lectures so far and feel very confident about the lecture material. 
+
+A big part of anxiety and stress for me is interviews and job prospects. I've had pretty much 3 summers of doing developer work and this summer realized that maybe pure software engineering is not what I necessarily want to do. Now, I'm at a bit of a loss because really none of the companies that have come through UTCS have interested me at all. I like products and want to be working on a product team, but I need to be very passionate about a product or else I don't really care about the outcome or quality of it. I realized that my passion for engineering is born out of a need to create or improve things that I'm passionate about, and not out of pure interest in engineering itself. At career fair, I think I gave away 3 resumes and talked to 5 companies. Of those 5 companies, I was maybe only excited about 2 of them. At the FoCS brunch I gave away 3 resumes. As I'm starting my junior year and starting to think about full time, I really want to use this summer to do something either crazy or different, whether or not it has something to do with tech, or go somewhere I can really see myself working full time for a year+. So I'm anxious because everyone around me has interviews and is starting to decide what they're doing for the summer, and the grey area of not knowing what my goal is is making me squirmy. 
+
+**What will you do next week?** Continue to prep for interviews and study for my networks test and the upcoming OOP test. Also, need to catch up on algorithms. This week was way too hectic (in a mostly good way) and next week is really for me to get up to speed and also regain some sleep.
+
+
+**Tip of the week -**
+During Project 2, I'm pretty sure [cplusplus.com](http://www.cplusplus.com/) saved my life. C++ was very frustrating to me during this project. I have a barely working idea of how to use C++. After this project, I'm much more confident about the semantics of C++ and the STL. They have awesome documentation on functions, data structures and great examples of how to use them. 
