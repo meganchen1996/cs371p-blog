@@ -1,0 +1,14 @@
+---
+layout: post
+title: Week Eight
+---
+
+**What did I do this past week?** I learned that there is no such thing as a not-busy week. In OOP, we learned a lot about allocation/deallocation, constructing and destructing. We also learned how these functionalities apply in the case of something like an array. 
+
+
+**What's in my way?** I'm a little worried because I have to get everything done and prepped this weekend because I'll only be in Austin for Monday and Tuesday. I'm going to be at Grace Hopper on Wednesday through Friday, so I'll be missing two OOP classes as well as my other classes. I'll also be missing my gov test which I have to take early. So I'm a *little* stressed. 
+
+**What will you do next week?** Next week, I'll be at Grace Hopper! If you don't know what that is, Grace Hopper Conference is the largest conference for women in tech/STEM fields. This will be my first time going and I'm amped. Grace Hopper is full of amazing women and men in tech, boasting keynote speakers like Sheryl Sandberg (the COO of Facebook), and awesome talks in literally every field you can think of. A lot of my CS gal pals from across the country will be there as well so it'll be a great way to reconnect with a lot of friends. Also I'll be interviewing there with Salesforce and Paypal so I'm excited about that. Primarily, I'm excited about Spotify recruiting there. Spotify is (quite honestly) the only company I truly want to work for, and I'm really excited to finally be able to have some face to face contact with their recruiting team. 
+
+**Tip of the week -**
+I don't really have a technical tip of the week. I will say though that if you're an extremely busy person like me, please invest in a calendar. Finding a good calendar platform that you can use across desktop, mobile (bonus points for a web platform as well) is actually so instrumental in anything getting done in my life. I honestly wouldn't even remember to go to class if it wasn't in my calendar. It helps me effectively schedule my time so that I not only remember all the meetings and committments I have, but I also can schedule meetings in clumps so that it doesn't slice my free time to study into little bits, as I'm the type of person that needs at least 3 hours to really get any work done. So I get all meetings over with in the same block of time, so I can use the next large chunk of time to do work. It seriously has saved my life. Unfortunately, my favorite calendar app, Sunrise, was bought by Microsoft and is no longer supported. I'm currently using Apple Calendar, which meets most of my needs, but not as good. If y'all have any good, inexpensive suggestions, I would love to hear them!
